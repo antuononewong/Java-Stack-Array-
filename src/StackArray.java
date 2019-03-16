@@ -4,6 +4,7 @@ public class StackArray {
 	
 	private ArrayList<String> stack;
 	private int size;
+	public int test;
 	
 	public StackArray() {
 		stack = new ArrayList<String>();
